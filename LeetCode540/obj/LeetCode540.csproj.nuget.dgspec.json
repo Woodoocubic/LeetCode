@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode001\\LeetCode001.csproj": {}
+    "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode540\\LeetCode540.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode001\\LeetCode001.csproj": {
+    "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode540\\LeetCode540.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode001\\LeetCode001.csproj",
-        "projectName": "LeetCode001",
-        "projectPath": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode001\\LeetCode001.csproj",
+        "projectUniqueName": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode540\\LeetCode540.csproj",
+        "projectName": "LeetCode540",
+        "projectPath": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode540\\LeetCode540.csproj",
         "packagesPath": "C:\\Users\\Greg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode001\\obj\\",
+        "outputPath": "C:\\Users\\Greg\\source\\repos\\LeetCode\\LeetCode540\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",
