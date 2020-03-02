@@ -1,0 +1,14 @@
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.exe
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.deps.json
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.dll
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\LeetCode1156.pdb
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.dll
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.pdb
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\Lucene.Net.dll
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Greg\source\repos\LeetCode\LeetCode1156\obj\Debug\netcoreapp3.1\LeetCode1156.csproj.CopyComplete
