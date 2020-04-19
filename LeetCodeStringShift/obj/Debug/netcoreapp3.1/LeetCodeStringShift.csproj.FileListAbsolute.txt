@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.exe
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.deps.json
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.dll
+C:\Users\Greg\source\repos\LeetCodeStringShift\bin\Debug\netcoreapp3.1\LeetCodeStringShift.pdb
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.dll
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.pdb
+C:\Users\Greg\source\repos\LeetCodeStringShift\obj\Debug\netcoreapp3.1\LeetCodeStringShift.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.exe
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.deps.json
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.dll
+C:\Users\Greg\source\repos\LeetCodeCountingElements\bin\Debug\netcoreapp3.1\LeetCodeCountingElements.pdb
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.dll
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.pdb
+C:\Users\Greg\source\repos\LeetCodeCountingElements\obj\Debug\netcoreapp3.1\LeetCodeCountingElements.genruntimeconfig.cache

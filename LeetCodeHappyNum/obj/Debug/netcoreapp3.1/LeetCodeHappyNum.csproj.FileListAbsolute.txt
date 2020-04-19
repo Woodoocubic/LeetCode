@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.exe
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.deps.json
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.dll
+C:\Users\Greg\source\repos\LeetCodeHappyNum\bin\Debug\netcoreapp3.1\LeetCodeHappyNum.pdb
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.dll
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.pdb
+C:\Users\Greg\source\repos\LeetCodeHappyNum\obj\Debug\netcoreapp3.1\LeetCodeHappyNum.genruntimeconfig.cache

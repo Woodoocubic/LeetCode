@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.exe
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.deps.json
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.dll
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\bin\Debug\netcoreapp3.1\LeetCodeMaxSubarray.pdb
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.dll
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.pdb
+C:\Users\Greg\source\repos\LeetCodeMaxSubarray\obj\Debug\netcoreapp3.1\LeetCodeMaxSubarray.genruntimeconfig.cache

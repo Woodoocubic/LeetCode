@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.exe
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.deps.json
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.dll
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\bin\Debug\netcoreapp3.1\LeetCodeContiguousArray.pdb
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.dll
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.pdb
+C:\Users\Greg\source\repos\LeetCodeContiguousArray\obj\Debug\netcoreapp3.1\LeetCodeContiguousArray.genruntimeconfig.cache

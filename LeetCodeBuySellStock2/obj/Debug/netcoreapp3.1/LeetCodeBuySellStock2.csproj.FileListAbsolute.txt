@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.exe
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.deps.json
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.dll
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\bin\Debug\netcoreapp3.1\LeetCodeBuySellStock2.pdb
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.dll
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.pdb
+C:\Users\Greg\source\repos\LeetCodeBuySellStock2\obj\Debug\netcoreapp3.1\LeetCodeBuySellStock2.genruntimeconfig.cache
