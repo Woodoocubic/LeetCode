@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.exe
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.deps.json
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.dll
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\bin\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.pdb
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.dll
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.pdb
+C:\Users\Greg\source\repos\LeetCodeConstructBinarySearchTree\obj\Debug\netcoreapp3.1\LeetCodeConstructBinarySearchTree.genruntimeconfig.cache

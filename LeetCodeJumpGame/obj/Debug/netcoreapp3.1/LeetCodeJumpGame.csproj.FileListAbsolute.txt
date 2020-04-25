@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.exe
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.deps.json
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.dll
+C:\Users\Greg\source\repos\LeetCodeJumpGame\bin\Debug\netcoreapp3.1\LeetCodeJumpGame.pdb
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.dll
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.pdb
+C:\Users\Greg\source\repos\LeetCodeJumpGame\obj\Debug\netcoreapp3.1\LeetCodeJumpGame.genruntimeconfig.cache
