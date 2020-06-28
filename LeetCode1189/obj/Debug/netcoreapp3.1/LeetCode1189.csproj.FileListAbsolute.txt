@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.exe
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.deps.json
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.dll
+C:\Users\Greg\source\repos\LeetCode1189\bin\Debug\netcoreapp3.1\LeetCode1189.pdb
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.dll
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.pdb
+C:\Users\Greg\source\repos\LeetCode1189\obj\Debug\netcoreapp3.1\LeetCode1189.genruntimeconfig.cache

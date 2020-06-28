@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.exe
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.deps.json
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.dll
+C:\Users\Greg\source\repos\LeetCode1342\bin\Debug\netcoreapp3.1\LeetCode1342.pdb
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.dll
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.pdb
+C:\Users\Greg\source\repos\LeetCode1342\obj\Debug\netcoreapp3.1\LeetCode1342.genruntimeconfig.cache
