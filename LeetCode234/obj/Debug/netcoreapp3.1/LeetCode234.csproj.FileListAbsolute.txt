@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.exe
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.deps.json
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.dll
+C:\Users\Greg\source\repos\LeetCode234\bin\Debug\netcoreapp3.1\LeetCode234.pdb
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.dll
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.pdb
+C:\Users\Greg\source\repos\LeetCode234\obj\Debug\netcoreapp3.1\LeetCode234.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.AssemblyInfo.cs
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.exe
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.deps.json
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.runtimeconfig.json
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.dll
+C:\Users\Greg\source\repos\LeetCode406\bin\Debug\netcoreapp3.1\LeetCode406.pdb
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.dll
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.pdb
+C:\Users\Greg\source\repos\LeetCode406\obj\Debug\netcoreapp3.1\LeetCode406.genruntimeconfig.cache
